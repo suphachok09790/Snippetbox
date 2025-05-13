@@ -25,9 +25,9 @@ A simple snippet-sharing web application built in Go. Users can register, log in
 
 ## 📷 Screenshot
 
-![Snippet Page](screenshot/Screenshot1.JPG)
-![Log in Page](screenshot/Screenshot2.JPG)
-![Create Page](screenshot/Screenshot3.JPG)
+![Snippet Page](screenshot/Screenshot1.jpg)
+![Log in Page](screenshot/Screenshot2.jpg)
+![Create Page](screenshot/Screenshot3.jpg)
 
 ## 📝 How to Run
 
