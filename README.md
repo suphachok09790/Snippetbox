@@ -31,10 +31,6 @@ A simple snippet-sharing web application built in Go. Users can register, log in
 
 ## 📝 How to Run
 
-1. Clone this repository  
-2. Set up a MySQL database and update the DSN in your config  
-3. Run the application:
-
 ```bash
 go run ./cmd/web
 
